@@ -1,6 +1,6 @@
 # main text of home
 name: Jinfa Yao
-bio: A Man who heading to the moon
+bio: A Man who listens to the world being ready to create it
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -41,7 +41,7 @@ twitter: mytwitter
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: jfyao90
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -50,12 +50,12 @@ github: mygithub
 medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: jfyao@mail.ustc.edu.cn
 
 authors:
   johndoe:
     name: Jinfa Yao 
-    bio: A Man who heading to the moon
+    bio: A Man who Listens to the world being ready to create it
     external-image: false
     picture: assets/images/profile.jpg
     twitter: johndoe
