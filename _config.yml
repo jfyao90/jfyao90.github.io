@@ -53,12 +53,12 @@ medium: medium
 email: jfyao@mail.ustc.edu.cn
 
 authors:
-  johndoe:
-    name: Jinfa Yao 
-    bio: A Man who Listens to the world being ready to create it
-    external-image: false
-    picture: assets/images/profile.jpg
-    twitter: johndoe
+#   johndoe:
+#     name: Jinfa Yao 
+#     bio: A Man who Listens to the world being ready to create it
+#     external-image: false
+#     picture: assets/images/profile.jpg
+#     twitter: johndoe
   jamesfoster:
     name: James Foster
     bio: A Man who develops software with coffee
